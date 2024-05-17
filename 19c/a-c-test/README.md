@@ -1,9 +1,9 @@
-`mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
+`ve-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Overview
 
@@ -246,7 +246,7 @@ In the early stages of their married life, Elizabeth would often illustrate scie
 
  ## Sarah Grand (1854-1943)
  
- [Sarah Grand](19c-grand-biography)
+[Sarah Grand](19c-grand-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
 

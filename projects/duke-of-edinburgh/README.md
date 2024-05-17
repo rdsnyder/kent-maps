@@ -1,11 +1,11 @@
-`mdp-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
+`ve-header title="Duke of Edinburgh Award Scheme" background=gh:kent-map/images/banners/Dumpton.JPG .sticky`
 
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels. 
 <br><br>
 Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life. You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 
 # &nbsp; 
-<param class="cards">
+`.cards`
 
 ## Spanish Armada
 
@@ -77,7 +77,7 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/theatre_John_Lyly.jpg)
 
-‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie. Read Hannah Jennison's research on John Lyly, dramatist, courtier and parliamentarian.
+‘My heart throbbes, my eares tingle, my minde misgiues mee, since I heare such muttering of marry-ages in Rochester’ - Vicinia in Mother Bombie. Read Hannah's research on John Lyly, dramatist, courtier and parliamentarian.
 
 ## Robert Plot
 
@@ -93,7 +93,7 @@ Hannah researched the life of naturalist and chemist, Robert Plot who was born a
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
-Hannah Jennison writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
+Hannah writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 
